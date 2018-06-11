@@ -1,0 +1,11 @@
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/bin/Debug/netcoreapp2.1/JWT.deps.json
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/bin/Debug/netcoreapp2.1/JWT.runtimeconfig.json
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/bin/Debug/netcoreapp2.1/JWT.runtimeconfig.dev.json
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/bin/Debug/netcoreapp2.1/JWT.dll
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/bin/Debug/netcoreapp2.1/JWT.pdb
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/obj/Debug/netcoreapp2.1/JWT.csprojAssemblyReference.cache
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/obj/Debug/netcoreapp2.1/JWT.csproj.CoreCompileInputs.cache
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/obj/Debug/netcoreapp2.1/JWT.AssemblyInfoInputs.cache
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/obj/Debug/netcoreapp2.1/JWT.AssemblyInfo.cs
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/obj/Debug/netcoreapp2.1/JWT.dll
+/Users/tanverhasan/Documents/JwtOauthOpenId/JWT/obj/Debug/netcoreapp2.1/JWT.pdb
